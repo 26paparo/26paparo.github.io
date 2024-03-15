@@ -1,4 +1,4 @@
-//header comment
+//Noa Paparo Drawing Program
 
 //declare variables
 let colorPicker; //variable used to access the ColorPicker control
